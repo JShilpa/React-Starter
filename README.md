@@ -1,9 +1,6 @@
-ReactStarter
-====
+# ReduxSimpleStarter
 
-Use this as a starting point for working on chapters of the [Build Web Apps with React JS and Flux](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
-
----
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
 
@@ -13,10 +10,10 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone https://github.com/StephenGrider/ReactStarter.git
-	> cd ReactStarter
+	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+	> cd ReduxSimpleStarter
 	> npm install
-	> gulp
+	> npm start
 ```
 
 ####Not Familiar with Git?#####
@@ -24,5 +21,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 ```
 	> npm install
-	> gulp
+	> npm start
 ```
